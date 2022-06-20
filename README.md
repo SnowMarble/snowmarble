@@ -1,2 +1,2 @@
 ### Hi there 👋
-full-stack dev who loves snow but rarely see em. ( ._.)
+full-stack dev who loves snow but rarely sees em. ( ._.)
