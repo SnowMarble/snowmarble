@@ -1,4 +1,4 @@
 ### Hi there 👋
 back-end dev who loves snow but rarely sees em. ( ._.)
 
-> _don't k!ll urself_
+> _I can't say it's ok to k!ll urself_
