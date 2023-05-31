@@ -1,4 +1,5 @@
 ### Hi there 👋
 back-end dev who loves snow but rarely sees em. ( ._.)
 
-> _love ur fam n g 🙏_
+`Backend` `Translation` `Open Source`<br>
+`MSA` `Dev-Ops` `TypeScript`
