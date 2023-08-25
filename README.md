@@ -1,5 +1,6 @@
 ### Hi there 👋
-back-end dev who loves snow but rarely sees em. ( ._.)
+
+I'm currently working on @dimipay as backend engineer. 🤗
 
 `Backend` `Translation` `Open Source`<br>
 `MSA` `Dev-Ops` `TypeScript`
